@@ -1,4 +1,4 @@
-🐼 Pandas Learning Journey
+* 🐼 Pandas Learning Journey
 
 <div align="center">
 
