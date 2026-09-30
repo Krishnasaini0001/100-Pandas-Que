@@ -18,7 +18,7 @@ A structured journey from Pandas fundamentals to advanced data analysis
 
 </div>
 
-🎯 About This Repository
+### 🎯 About This Repository
 
 Welcome to my Pandas Learning Journey 🐼
 
