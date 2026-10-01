@@ -37,8 +37,8 @@ The goal is to build a strong foundation in Data Analysis, Data Cleaning, Data M
 import pandas as pd
 
 data = {
-    "Name": ["Krishna", "Rahul", "Aman"],
-    "Marks": [90, 85, 78]
+    "Name": ["Krishna", "Jatin", "Harshendra"],
+    "Marks": [90, 75, 88]
 }
 
 df = pd.DataFrame(data)
