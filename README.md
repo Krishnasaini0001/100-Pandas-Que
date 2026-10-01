@@ -31,6 +31,9 @@ The goal is to build a strong foundation in Data Analysis, Data Cleaning, Data M
 ---
 
 ### 💻 Example
+
+
+```python
 import pandas as pd
 
 data = {
@@ -60,4 +63,5 @@ Top Student:
 Name     Krishna
 Marks          90
 
+```
 ---
