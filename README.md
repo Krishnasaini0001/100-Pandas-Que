@@ -71,15 +71,20 @@ Marks          90
 Every question follows this simple process:
 
 ❓ Question
-     ↓
+     │
+     ▼
 💡 Concept
-     ↓
+     │
+     ▼
 📝 Answer
-     ↓
+     │
+     ▼
 💻 Python Code
-     ↓
+     │
+     ▼
 🧪 Practice
-     ↓
+     │
+     ▼
 🚀 GitHub Commit
 
 This makes the repository useful not only for learning but also for revision and interview preparation.
