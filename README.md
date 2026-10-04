@@ -85,3 +85,22 @@ Every question follows a simple structure:
 This makes the repository useful not only for learning but also for revision and interview preparation.
 
 ---
+
+📌 Why Pandas?
+
+Pandas is one of the most important Python libraries for working with structured data.
+
+It is widely used for:
+
+📥 Data Collection
+      ↓
+🧹 Data Cleaning
+      ↓
+🔄 Data Transformation
+      ↓
+📊 Data Analysis
+      ↓
+📈 Visualization
+      ↓
+🤖 Machine Learning
+---
