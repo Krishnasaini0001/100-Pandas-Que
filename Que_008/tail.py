@@ -8,5 +8,4 @@ data = {
 
 df = pd.DataFrame(data)
 
-
-print(df.head())# a head print a top 5 rowsonly bydefault
+print(df.tail())# a tail print a bottom 5 rows only bydefault
