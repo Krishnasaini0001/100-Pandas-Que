@@ -6,6 +6,6 @@ data = {
     "Marks": [85, 90, 78]
 }
 
-df = pd.DataFrame(data)
+#df = pd.DataFrame(data)
 
-print(df)
+print(pd.DataFrame(data))
