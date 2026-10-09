@@ -122,7 +122,56 @@ Pandas Learning Journey
    Data Manipulation
 
 🔴 Q76 ━━━━━━━━━━━━━━━━━━━ Q100
+
    Advanced Pandas
 
+---
 
+Pandas-Learning-Journey/
+│
+├── Day_001/
+│   └── pandas_import.py
+│
+├── Day_002/
+│   └── pandas_version.py
+│
+├── Day_003/
+│   └── create_series.py
+│
+├── Day_004/
+│   └── custom_index.py
+│
+├── Day_005/
+│   └── create_dataframe.py
+│
+├── ...
+│
+├── Day_025/
+│   └── rename_column.py
+│
+├── Day_026/
+│   └── filter_rows.py
+│
+├── ...
+│
+├── Day_050/
+│   └── text_search.py
+│
+├── Day_051/
+│   └── calculate_mean.py
+│
+├── ...
+│
+├── Day_075/
+│   └── percentage_change.py
+│
+├── Day_076/
+│   └── read_csv.py
+│
+├── ...
+│
+├── Day_100/
+│   └── pandas_workflow.py
+│
+└── README.md
 🤖 Machine Learning
