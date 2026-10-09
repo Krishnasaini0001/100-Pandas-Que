@@ -110,16 +110,19 @@ It is widely used for:
 🤖 Machine Learning
 ---
 
-📥 Data Collection
-        ↓
-🔍 Data Exploration
-        ↓
-🧹 Data Cleaning
-        ↓
-🔄 Data Transformation
-        ↓
-📊 Data Analysis
-        ↓
-📈 Data Visualization
-        ↓
+Pandas Learning Journey
+
+🟢 Q01 ━━━━━━━━━━━━━━━━━━━ Q25
+   Fundamentals
+
+🟡 Q26 ━━━━━━━━━━━━━━━━━━━ Q50
+   Data Cleaning
+
+🟠 Q51 ━━━━━━━━━━━━━━━━━━━ Q75
+   Data Manipulation
+
+🔴 Q76 ━━━━━━━━━━━━━━━━━━━ Q100
+   Advanced Pandas
+
+
 🤖 Machine Learning
