@@ -109,3 +109,17 @@ It is widely used for:
       ↓
 🤖 Machine Learning
 ---
+
+📥 Data Collection
+        ↓
+🔍 Data Exploration
+        ↓
+🧹 Data Cleaning
+        ↓
+🔄 Data Transformation
+        ↓
+📊 Data Analysis
+        ↓
+📈 Data Visualization
+        ↓
+🤖 Machine Learning
