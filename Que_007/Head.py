@@ -9,4 +9,4 @@ data = {
 df = pd.DataFrame(data)
 
 
-print(df.head())# a head print a top 5 rowsonly bydefault
+print(df.head())# a head print a top 5 rows only bydefault
