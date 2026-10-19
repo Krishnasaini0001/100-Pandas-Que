@@ -1,9 +1,9 @@
 import pandas as pd
 
 data = {
-    "Name": ["Aman", "Rahul", "Krishna"],
+    "Name": ["Ajo", "Jatin", "Krishna"],
     "Age": [20, 21, 22],
-    "Marks": [80, 85, 90]
+    "Marks": [88, 75, 97]
 }
 
 df = pd.DataFrame(data)
